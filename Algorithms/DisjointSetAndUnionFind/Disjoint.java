@@ -1,3 +1,4 @@
+package Algorithms.DisjointSetAndUnionFind;
 public class Disjoint {
 
     // What is a disjoint set?
